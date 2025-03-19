@@ -1,4 +1,4 @@
-package com.surya;
+package com.surya.beans;
 
 import org.springframework.stereotype.Component;
 
